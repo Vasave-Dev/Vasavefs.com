@@ -32,6 +32,7 @@ body {
 }
 
 
+
 p {
     margin-top: 5px;
     margin-bottom: 1rem;
@@ -149,6 +150,12 @@ img {
 	padding-left: 30px;
 	padding-right: 30px;
 }
+.ul_list{
+	font-size: large;
+	list-style: circle ;
+	padding: 20px 0px;
+}
+
 
 a,
 .btn {
@@ -770,8 +777,9 @@ a.navbar-brand img {
 }
 
 .slide_text {
-    margin-top: 220px;
+    margin-top: 300px;
     padding-left: 0;
+	
 }
 
 .tab_menu {
@@ -2095,6 +2103,7 @@ h3.small_heading {
 	top: 43%;
 	right: -65px;
 }
+
 
 #demo {
 	margin-bottom: 20px;
