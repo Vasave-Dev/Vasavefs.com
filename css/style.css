@@ -2024,6 +2024,8 @@ select.form-control:not([size]):not([multiple]) {
     margin-bottom: 20px;
 }
 
+
+
 .center {
 	display: flex;
 	justify-content: center;
@@ -2236,7 +2238,7 @@ footer.footer-box p {
 }
 
 .footer_blog img.logo {
-	margin-top: 12px;
+	margin-top: 80px;
 }
 
 ul.bottom_menu li a {
